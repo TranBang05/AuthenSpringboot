@@ -1,0 +1,14 @@
+server:
+    port: 9090
+spring:
+    datasource:
+        driver-class-name: com.mysql.cj.jdbc.Driver
+        password: bang0501@b
+        url: jdbc:mysql://localhost:3306/mhsolution
+        username: root
+
+    redis:
+        host: redis-13401.c252.ap-southeast-1-1.ec2.cloud.redislabs.com
+        port: 13401
+        username: default
+        password: sv6xUVmZ391Sg1b55qdn4EjeNkXfBUC7
